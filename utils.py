@@ -2,12 +2,12 @@ import json
 
 
 def get_posts_all():
-    with open(f"/Users/panda/Desktop/KURSOVAYA_2/data/data.json", "r") as file:
+    with open(f"/Users/anna/KURSOVAYA_2 2/data/data.json", "r") as file:
         return json.load(file)
 
 
 def get_posts_by_user(user_name):
-    with open(f"/Users/panda/Desktop/KURSOVAYA_2/data/data.json", "r") as file:
+    with open(f"/Users/anna/KURSOVAYA_2 2/data/data.json", "r") as file:
         data = json.load(file)
 
     result = []
@@ -22,7 +22,7 @@ def get_posts_by_user(user_name):
 
 
 def get_comments_by_post_id(post_id):
-    with open("/Users/panda/Desktop/KURSOVAYA_2/data/comments.json", "r") as file:
+    with open("/Users/anna/KURSOVAYA_2 2/data/data.json", "r") as file:
         data = json.load(file)
 
     result = []
@@ -37,7 +37,7 @@ def get_comments_by_post_id(post_id):
 
 
 def search_for_posts(query):
-    with open("/Users/panda/Desktop/KURSOVAYA_2/data/data.json", "r") as file:
+    with open("/Users/anna/KURSOVAYA_2 2/data/data.json", "r") as file:
         data = json.load(file)
 
     result = []
@@ -49,7 +49,7 @@ def search_for_posts(query):
 
 
 def get_post_by_pk(pk):
-    with open("/Users/panda/Desktop/KURSOVAYA_2/data/data.json", "r") as file:
+    with open("/Users/anna/KURSOVAYA_2 2/data/data.json", "r") as file:
         data = json.load(file)
 
     for item in data:

@@ -27,7 +27,7 @@ def get_post(postid):
         return flask.render_template("post.html", data=utils.get_comments_by_post_id(post_id=postid),
                                      data_from_main=utils.get_post_by_pk(postid))
     except ValueError:
-        return "Ошиибка сервера!", 500
+        return "Ошибка сервера!", 500
 
 @app.route("/search/")
 def search():
