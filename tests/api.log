@@ -1,0 +1,60 @@
+2022-06-04 14:45:20,834 [ERROR] Exception on /api/posts/1 [GET]
+Traceback (most recent call last):
+  File "/Users/panda/Desktop/KURSOVAYA_2/venv/lib/python3.8/site-packages/flask/app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/panda/Desktop/KURSOVAYA_2/venv/lib/python3.8/site-packages/flask/app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/panda/Desktop/KURSOVAYA_2/venv/lib/python3.8/site-packages/flask/app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/panda/Desktop/KURSOVAYA_2/venv/lib/python3.8/site-packages/flask/app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/panda/Desktop/KURSOVAYA_2/main.py", line 62, in post_id_search
+    response=json.dumps(utils.get_post_by_pk(post_id), ensure_ascii=False),
+  File "/Users/panda/Desktop/KURSOVAYA_2/utils.py", line 52, in get_post_by_pk
+    with open("data/data.json", "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'data/data.json'
+2022-06-04 14:45:54,731 [ERROR] Exception on /api/posts/1 [GET]
+Traceback (most recent call last):
+  File "/Users/panda/Desktop/KURSOVAYA_2/venv/lib/python3.8/site-packages/flask/app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/panda/Desktop/KURSOVAYA_2/venv/lib/python3.8/site-packages/flask/app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/panda/Desktop/KURSOVAYA_2/venv/lib/python3.8/site-packages/flask/app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/panda/Desktop/KURSOVAYA_2/venv/lib/python3.8/site-packages/flask/app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/panda/Desktop/KURSOVAYA_2/main.py", line 62, in post_id_search
+    response=json.dumps(utils.get_post_by_pk(post_id), ensure_ascii=False),
+  File "/Users/panda/Desktop/KURSOVAYA_2/utils.py", line 52, in get_post_by_pk
+    with open("data/data.json", "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'data/data.json'
+2022-06-04 14:46:06,348 [ERROR] Exception on /api/posts/1 [GET]
+Traceback (most recent call last):
+  File "/Users/panda/Desktop/KURSOVAYA_2/venv/lib/python3.8/site-packages/flask/app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/panda/Desktop/KURSOVAYA_2/venv/lib/python3.8/site-packages/flask/app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/panda/Desktop/KURSOVAYA_2/venv/lib/python3.8/site-packages/flask/app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/panda/Desktop/KURSOVAYA_2/venv/lib/python3.8/site-packages/flask/app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/panda/Desktop/KURSOVAYA_2/main.py", line 62, in post_id_search
+    response=json.dumps(utils.get_post_by_pk(post_id), ensure_ascii=False),
+  File "/Users/panda/Desktop/KURSOVAYA_2/utils.py", line 52, in get_post_by_pk
+    with open("data/data.json", "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'data/data.json'
+2022-06-04 14:46:50,968 [ERROR] Exception on /api/posts/1/ [GET]
+Traceback (most recent call last):
+  File "/Users/panda/Desktop/KURSOVAYA_2/venv/lib/python3.8/site-packages/flask/app.py", line 2077, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/Users/panda/Desktop/KURSOVAYA_2/venv/lib/python3.8/site-packages/flask/app.py", line 1525, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/Users/panda/Desktop/KURSOVAYA_2/venv/lib/python3.8/site-packages/flask/app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/Users/panda/Desktop/KURSOVAYA_2/venv/lib/python3.8/site-packages/flask/app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "/Users/panda/Desktop/KURSOVAYA_2/main.py", line 62, in post_id_search
+    response=json.dumps(utils.get_post_by_pk(post_id), ensure_ascii=False),
+  File "/Users/panda/Desktop/KURSOVAYA_2/utils.py", line 52, in get_post_by_pk
+    with open("data/data.json", "r") as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'data/data.json'
