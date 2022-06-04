@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac7327b0-4aa5-47f9-8065-d6befcf9bf35" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/bookmarks.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/bookmarks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ava1.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/ava1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/ava2.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/ava2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bookmark.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/bookmark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/eye.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/eye.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/post1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/post10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/post2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/post3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/post4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/post5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/post6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/post7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/post8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/post9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/post9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/tag.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-feed.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/user-feed.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28khIpl7pLb3fBllaBO6JD6kqh5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac7327b0-4aa5-47f9-8065-d6befcf9bf35" name="Changes" comment="" />
+      <created>1651766413997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651766413997</updated>
+      <workItem from="1651766415190" duration="3446000" />
+      <workItem from="1651814892149" duration="668000" />
+      <workItem from="1652167473769" duration="129000" />
+      <workItem from="1654069524673" duration="907000" />
+      <workItem from="1654187508994" duration="1544000" />
+      <workItem from="1654250244531" duration="375000" />
+      <workItem from="1654328911220" duration="81000" />
+      <workItem from="1654330449957" duration="430000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
